@@ -1,1 +1,4 @@
+
+# Default .gitattributes file created by Unreal Engine 4.27.2
+
 Content/** filter=lfs diff=lfs merge=lfs -text
